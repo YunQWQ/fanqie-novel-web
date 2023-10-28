@@ -4,6 +4,8 @@
 为改善xing-yv的[fanqie-novel-download](https://github.com/xing-yv/fanqie-novel-download)使用场景创作而来。
 ## 特点
 方便下载，支持资源共享，节约资源，PC/ANDROID/MACOS/LINUX通用
+## 注意事项
+如果您不方便搭建，可使用[点我打开](http://47.109.132.84/)公共版，请珍惜！
 ## 许可证
 为保护此程序不被用于不良商业行为，
 
